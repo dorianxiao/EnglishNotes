@@ -1,3 +1,3 @@
 ## 单词   
-#### + demanding:   
++ demanding:   
 > 要求高的，很费力的
