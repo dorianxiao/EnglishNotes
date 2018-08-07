@@ -11,3 +11,4 @@
 |disperse | 分散，驱散 |
 |break out |爆发 |
 |break down |突破，克服，分解，情绪失控，抛锚|
+|utmost|最高程度的，最大努力的|
