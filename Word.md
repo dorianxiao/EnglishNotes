@@ -3,10 +3,13 @@
 |单词 |解释  |
 |------------|---------|
 |demanding   |要求高的，很费力的|
+|identify with|认同，理解，认为··与···有联系|
 |comply with  |遵守  |
 |dispose of  |处理 |
 |out of question |不可能 |
 |consecutive |连续的 |
+|comprise|包括，组成|
+|revolve(around)|围绕，以···为中心|
 |accessible | 易进入的，易达到的，易懂的 |
 |disperse | 分散，驱散 |
 |break out |爆发 |
@@ -47,4 +50,11 @@
 |vigorous|剧烈的，活跃的，有活力的|
 |spontaneous|自发的，自然的|
 |disruptive|破坏性的，混乱的|
-|
+|incompetent|不合格的，不称职的，无能力的|
+|shrewd|精明的;敏锐的;有眼光的;精于盘算的|
+|appear from nowhere|无处不在|
+|pilot|试验|
+|provenance|起源，出处|
+|hollow|空心的，空洞的，虚伪的|
+|autism|自闭症|
+|reliability|可信度|
